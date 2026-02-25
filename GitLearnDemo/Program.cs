@@ -12,6 +12,10 @@ class Program
         Console.Write("Enter Salary: ");
         double salary = Convert.ToDouble(Console.ReadLine());
 
+
+
+        Console.Write("Enter Salary: ");
+
         Console.WriteLine("\nEmployee Details:");
         Console.WriteLine("Name: " + empName);
         Console.WriteLine("Salary: " + salary);
